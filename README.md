@@ -1,4 +1,5 @@
 # jaumeros.github.io
-jaume.io
 
-whats up dog 
+This repository contains the source code for my personal portfolio website.
+
+Visit [jaume.io](https://jaume.io) to view the live site.
